@@ -1,0 +1,3 @@
+This is a Titanic project to predict the passenger's survival from Titanic tragic. 
+Using the train data, I rendered and manipulate the dataset to make it operable for machine learning.
+The hardest part was figuring out the variables that are important factors to decide the survival
